@@ -1,3 +1,0 @@
-2026-05-19 20:34:32,795 - WARNING - API key format appears invalid: AIzaSyB6... Authentication may fail. Find your API key at https://api.agentops.ai/settings/projects
-2026-05-19 20:44:34,448 - WARNING - end_session() is deprecated and will be removed in v4 in the future. Use agentops.end_trace() instead.
-2026-05-19 20:44:34,452 - WARNING - end_session called but no active trace context found.
